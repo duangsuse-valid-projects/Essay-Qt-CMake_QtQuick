@@ -1,0 +1,8 @@
+/home/DuangSUSE/projects/RandomSelector/build/CMakeFiles/install/strip.dir
+/home/DuangSUSE/projects/RandomSelector/build/CMakeFiles/edit_cache.dir
+/home/DuangSUSE/projects/RandomSelector/build/CMakeFiles/randomseletor.dir
+/home/DuangSUSE/projects/RandomSelector/build/CMakeFiles/rebuild_cache.dir
+/home/DuangSUSE/projects/RandomSelector/build/CMakeFiles/list_install_components.dir
+/home/DuangSUSE/projects/RandomSelector/build/CMakeFiles/install/local.dir
+/home/DuangSUSE/projects/RandomSelector/build/CMakeFiles/install.dir
+/home/DuangSUSE/projects/RandomSelector/build/CMakeFiles/randomseletor_autogen.dir

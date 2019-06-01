@@ -1,0 +1,6 @@
+/home/DuangSUSE/projects/QtQuickTest/build/CMakeFiles/rebuild_cache.dir
+/home/DuangSUSE/projects/QtQuickTest/build/CMakeFiles/edit_cache.dir
+/home/DuangSUSE/projects/QtQuickTest/build/src/CMakeFiles/rebuild_cache.dir
+/home/DuangSUSE/projects/QtQuickTest/build/src/CMakeFiles/qtquicktest.dir
+/home/DuangSUSE/projects/QtQuickTest/build/src/CMakeFiles/edit_cache.dir
+/home/DuangSUSE/projects/QtQuickTest/build/src/CMakeFiles/qtquicktest_autogen.dir

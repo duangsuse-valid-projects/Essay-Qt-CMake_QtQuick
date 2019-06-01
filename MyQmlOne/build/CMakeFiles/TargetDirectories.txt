@@ -1,0 +1,6 @@
+/home/DuangSUSE/projects/MyQmlOne/build/CMakeFiles/rebuild_cache.dir
+/home/DuangSUSE/projects/MyQmlOne/build/CMakeFiles/edit_cache.dir
+/home/DuangSUSE/projects/MyQmlOne/build/app/CMakeFiles/rebuild_cache.dir
+/home/DuangSUSE/projects/MyQmlOne/build/app/CMakeFiles/myqtqck.dir
+/home/DuangSUSE/projects/MyQmlOne/build/app/CMakeFiles/edit_cache.dir
+/home/DuangSUSE/projects/MyQmlOne/build/app/CMakeFiles/myqtqck_autogen.dir

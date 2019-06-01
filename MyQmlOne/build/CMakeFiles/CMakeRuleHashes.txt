@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+2ace08760ec1dd1c7d243cee6322b445 app/CMakeFiles/myqtqck_autogen
+61c5de3b55006e87b8e0ef3bf6b29adf app/qrc_resources.cpp
